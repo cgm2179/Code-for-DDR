@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e060c284a63949f3a920ceff7a513bb, type: 3}
+  m_Name: Song1
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: afb613481b5354851a2ed8047722774c, type: 3}
+  songTitle: song
+  bpm: 244
+  beatsShownInAdvance: 8.3
+  notes:
+  - beat: 1
+    laneIndex: 3
+    duration: 0
+  - beat: 3
+    laneIndex: 3
+    duration: 0
+  - beat: 5
+    laneIndex: 3
+    duration: 0
+  - beat: 7
+    laneIndex: 0
+    duration: 0
+  - beat: 9
+    laneIndex: 2
+    duration: 0
+  - beat: 13
+    laneIndex: 1
+    duration: 0
+  - beat: 15
+    laneIndex: 0
+    duration: 0
+  - beat: 17
+    laneIndex: 2
+    duration: 0
+  - beat: 19
+    laneIndex: 3
+    duration: 0
+  - beat: 21
+    laneIndex: 2
+    duration: 0
+  - beat: 23
+    laneIndex: 0
+    duration: 0
+  - beat: 25
+    laneIndex: 1
+    duration: 0
+  - beat: 27
+    laneIndex: 2
+    duration: 0
+  - beat: 29
+    laneIndex: 3
+    duration: 0
+  - beat: 31
+    laneIndex: 0
+    duration: 0
+  - beat: 33
+    laneIndex: 1
+    duration: 0
+  - beat: 34
+    laneIndex: 2
+    duration: 0
+  - beat: 35
+    laneIndex: 1
+    duration: 0
+  - beat: 36
+    laneIndex: 0
+    duration: 0
+  - beat: 37
+    laneIndex: 1
+    duration: 0
+  - beat: 38
+    laneIndex: 2
+    duration: 0
+  - beat: 39
+    laneIndex: 1
+    duration: 0
+  - beat: 40
+    laneIndex: 2
+    duration: 0
+  - beat: 41
+    laneIndex: 3
+    duration: 0
+  - beat: 42
+    laneIndex: 3
+    duration: 0
+  - beat: 43
+    laneIndex: 3
+    duration: 0
+  - beat: 43
+    laneIndex: 0
+    duration: 0
+  - beat: 44
+    laneIndex: 2
+    duration: 0
+  - beat: 45
+    laneIndex: 1
+    duration: 0
+  - beat: 46
+    laneIndex: 3
+    duration: 0
+  - beat: 47
+    laneIndex: 2
+    duration: 0
+  - beat: 48
+    laneIndex: 1
+    duration: 0
+  - beat: 49
+    laneIndex: 0
+    duration: 0
+  - beat: 51
+    laneIndex: 1
+    duration: 0
+  - beat: 53
+    laneIndex: 3
+    duration: 0
+  - beat: 55
+    laneIndex: 1
+    duration: 0
+  - beat: 57
+    laneIndex: 0
+    duration: 0
+  - beat: 59
+    laneIndex: 2
+    duration: 0
+  - beat: 61
+    laneIndex: 3
+    duration: 0
+  - beat: 63
+    laneIndex: 1
+    duration: 0

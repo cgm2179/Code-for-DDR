@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e060c284a63949f3a920ceff7a513bb, type: 3}
+  m_Name: TestSong
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: 4a489973d0be740f09a1256ee69eb64b, type: 3}
+  songTitle: Metronome
+  bpm: 120
+  beatsShownInAdvance: 4
+  notes:
+  - beat: 6
+    laneIndex: 0
+    duration: 0
+  - beat: 7
+    laneIndex: 1
+    duration: 0
+  - beat: 8
+    laneIndex: 2
+    duration: 0
+  - beat: 9
+    laneIndex: 3
+    duration: 0
+  - beat: 10
+    laneIndex: 2
+    duration: 0
+  - beat: 10.5
+    laneIndex: 0
+    duration: 0
+  - beat: 11
+    laneIndex: 1
+    duration: 0
+  - beat: 1
+    laneIndex: 3
+    duration: 0
+  - beat: 12
+    laneIndex: 1
+    duration: 0
+  - beat: 12
+    laneIndex: 0
+    duration: 0
+  - beat: 13
+    laneIndex: 3
+    duration: 0
+  - beat: 14
+    laneIndex: 2
+    duration: 0
+  - beat: 15
+    laneIndex: 1
+    duration: 0
+  - beat: 16
+    laneIndex: 0
+    duration: 0
+  - beat: 16.5
+    laneIndex: 0
+    duration: 0
+  - beat: 17
+    laneIndex: 0
+    duration: 0
+  - beat: 18
+    laneIndex: 2
+    duration: 0
+  - beat: 18
+    laneIndex: 3
+    duration: 0
+  - beat: 20
+    laneIndex: 2
+    duration: 0
+  - beat: 21
+    laneIndex: 1
+    duration: 0
+  - beat: 21
+    laneIndex: 2
+    duration: 0
